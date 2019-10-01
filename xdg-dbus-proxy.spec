@@ -25,7 +25,7 @@ to facilitate using it in other contexts.
 %autosetup -p1
 
 %build
-%autoreconf -
+autoreconf -fi
 %configure
 %make_build
 
