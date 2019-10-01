@@ -12,6 +12,7 @@ BuildRequires:  pkgconfig(gio-2.0)
 BuildRequires:  pkgconfig(gio-unix-2.0)
 BuildRequires:  pkgconfig(glib-2.0)
 BuildRequires:  xsltproc
+BuildRequires:  autoconf-archive
 BuildRequires:  autoconf
 
 Requires:       dbus
